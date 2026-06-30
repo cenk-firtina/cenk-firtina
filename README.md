@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Cenk Fırtına
 
-<!--
-**cenk-firtina/cenk-firtina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack .NET Developer passionate about building scalable web applications with C#, ASP.NET Core and SQL Server.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack .NET Developer
+- Focused on clean architecture and maintainable code
+- Interested in ERP systems and enterprise software
+- Currently improving my skills in ASP.NET Core, Entity Framework Core and modern frontend technologies
+
+## Tech Stack
+
+### Backend
+- C#
+- ASP.NET Core
+- ASP.NET MVC
+- Entity Framework Core
+- Web API
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+
+### Database
+- SQL Server
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Visual Studio
+- VS Code
+
+## Featured Projects
+
+### Maia Backend
+Backend application built with modern architecture and RESTful APIs.
+
+### Appointment Tracking PWA
+Progressive Web Application for appointment and customer management.
+
+### VakıfBank WooCommerce Gateway
+WooCommerce payment gateway integration for VakıfBank Virtual POS.
+
+## Currently Learning
+
+- Microservices
+- Azure
+- Redis
+- RabbitMQ
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/cenk-firtina
