@@ -1,59 +1,85 @@
 # Hi, I'm Cenk Fırtına
 
-Full Stack .NET Developer passionate about building scalable web applications with C#, ASP.NET Core and SQL Server.
+**Full Stack .NET Developer** with professional experience building ERP systems and enterprise web applications using C#, ASP.NET Core, MVC and SQL Server.
 
 ## About Me
 
-- Full Stack .NET Developer
-- Focused on clean architecture and maintainable code
-- Interested in ERP systems and enterprise software
-- Currently improving my skills in ASP.NET Core, Entity Framework Core and modern frontend technologies
+I'm a Software Engineer passionate about building scalable, maintainable and high-performance software.
+
+I have professional experience developing ERP systems, enterprise applications and REST APIs using the Microsoft technology stack. Recently, I have been expanding my expertise into AI Engineering, building applications powered by Large Language Models (LLMs), AI Agents and Retrieval-Augmented Generation (RAG).
 
 ## Tech Stack
 
 ### Backend
+
 - C#
+- .NET
 - ASP.NET Core
 - ASP.NET MVC
+- REST API
 - Entity Framework Core
-- Web API
 
 ### Frontend
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
 - TypeScript
+- jQuery
+- Bootstrap
 - React
 
 ### Database
-- SQL Server
+
+- Microsoft SQL Server
 - PostgreSQL
 
+### AI
+
+- OpenAI API
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Model Context Protocol (MCP)
+
 ### Tools
+
 - Git
 - GitHub
 - Docker
 - Visual Studio
-- VS Code
 
-## Featured Projects
+## Professional Experience
 
-### Maia Backend
-Backend application built with modern architecture and RESTful APIs.
+- Enterprise Resource Planning (ERP) Development
+- Enterprise Web Applications
+- REST API Development
+- Business Process Automation
+- SQL Server Database Design
+- Query & Stored Procedure Optimization
+- Software Architecture
+- Performance Optimization
+- System Maintenance
 
-### Appointment Tracking PWA
-Progressive Web Application for appointment and customer management.
+## Current Focus
 
-### VakıfBank WooCommerce Gateway
-WooCommerce payment gateway integration for VakıfBank Virtual POS.
+- AI Engineering
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- ASP.NET Core
+- Clean Architecture
+- System Design
 
-## Currently Learning
+## Goals
 
-- Microservices
-- Azure
-- Redis
-- RabbitMQ
+- Build scalable enterprise software
+- Develop AI-powered business applications
+- Contribute to open-source projects
+- Continuously improve software architecture and engineering skills
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/cenk-firtina
+- GitHub: https://github.com/cenk-firtina
