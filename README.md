@@ -48,6 +48,8 @@ I have professional experience developing ERP systems, enterprise applications a
 - GitHub
 - Docker
 - Visual Studio
+- Claude Code
+- Antigravity
 
 ## Professional Experience
 
