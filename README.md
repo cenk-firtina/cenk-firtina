@@ -84,3 +84,4 @@ I have professional experience developing ERP systems, enterprise applications a
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/cenk-firtina
+- Web: https://cenkfirtina.com/
